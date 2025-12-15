@@ -18,6 +18,7 @@ I enjoy working across the full stack and continuously improving my skills by bu
 ### Web
 - React
 - Next.js
+- Angular
 - JavaScript
 - PHP
 
