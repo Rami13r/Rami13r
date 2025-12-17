@@ -16,24 +16,20 @@ I enjoy working across the full stack and continuously improving my skills by bu
 ## 🛠 Tech Stack
 
 ### Web
-- React
-- Next.js
-- Angular
-- JavaScript
-- PHP
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,react,angular,tailwind,ts)](https://skillicons.dev)
 
 ### Backend & APIs
-- Java
-- Spring Boot
-- RESTful APIs
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,php)](https://skillicons.dev)
 
 ### Mobile
-- Flutter (Dart)
+
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,react)](https://skillicons.dev)
 
 ### Tools & Other
-- Git & GitHub
-- MySQL
-- Basic DevOps & Deployment concepts
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,figma,androidstudio,firebase,ai,latex,mysql,ps,postgres,postman,sass,supabase,wordpress,xd,)](https://skillicons.dev)
 
 ---
 
