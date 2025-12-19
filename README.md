@@ -33,7 +33,7 @@ I enjoy working across the full stack and continuously improving my skills by bu
 
 ---
 
-## 🌱 Currently Focused On
+## 🌱 Currently Focused On 
 - Improving full stack architecture
 - Writing cleaner, maintainable code
 - Building production-ready applications
