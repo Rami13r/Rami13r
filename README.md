@@ -17,7 +17,7 @@ I enjoy working across the full stack and continuously improving my skills by bu
 
 ### Web
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,react,angular,tailwind,ts)](https://skillicons.dev)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rami13r&layout=compact)
 
 ### Backend & APIs
 
