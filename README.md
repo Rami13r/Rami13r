@@ -47,5 +47,7 @@ I enjoy working across the full stack and continuously improving my skills by bu
 
 ---
 
+![Rami's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rami13r&show_icons=true&theme=radical)
+
 📌 Always learning, always building.
 
