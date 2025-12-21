@@ -33,13 +33,6 @@ I enjoy working across the full stack and continuously improving my skills by bu
 
 ---
 
-## Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rami13r&repo=REPO_NAME&theme=tokyonight)](https://github.com/Rami13r/My-Portfolio
-)
-
----
-
 ## 🔗 Links
 - 🌐 Portfolio: **https://ramidevlab.ct.ws**
 - 💼 LinkedIn: **https://www.linkedin.com/in/ramiwebdev**
