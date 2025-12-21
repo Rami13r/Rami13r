@@ -50,7 +50,7 @@ I enjoy working across the full stack and continuously improving my skills by bu
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rami13r&layout=compact)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Rami13r&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Rami13r&theme=tokyonight&v=1)](https://git.io/streak-stats)
 
 
 📌 Always learning, always building.
