@@ -47,7 +47,7 @@ I enjoy working across the full stack and continuously improving my skills by bu
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/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/top-langs/?username=Rami13r)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rami13r)](https://github.com/anuraghazra/github-readme-stats)
 
 📌 Always learning, always building.
 
