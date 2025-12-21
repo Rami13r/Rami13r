@@ -5,14 +5,6 @@ I enjoy working across the full stack and continuously improving my skills by bu
 
 ---
 
-## 💼 What I Do
-- Full Stack Web Development
-- Mobile App Development
-- REST APIs & Backend Logic
-- UI Implementation & Performance Optimization
-
----
-
 ## 🛠 Tech Stack
 
 ### Web
