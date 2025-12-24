@@ -13,11 +13,11 @@ I enjoy working across the full stack and continuously improving my skills by bu
 
 ### Backend & APIs
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,php)](https://skillicons.dev)
 
 ### Mobile
 
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
 
 ### Tools & Other
 
