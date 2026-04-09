@@ -9,7 +9,7 @@ I enjoy working across the full stack and continuously improving my skills by bu
 
 ### Web
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,angular,tailwind,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nextjs,angular,react,tailwind,ts)](https://skillicons.dev)
 
 ### Backend & APIs
 
